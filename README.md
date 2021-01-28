@@ -15,5 +15,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
  ## youtube
-https://youtu.be/iNnPtBVCB1A
-![Image Layout](https://github.com/chanthavong/flutter/blob/master/assets/google_account.png)
+
+#### https://youtu.be/iNnPtBVCB1A
+
+
+|Image|Image|
+|---|---|
+|![Image Layout](https://github.com/chanthavong/flutter/blob/master/assets/google_account.png)|![Image Layout](https://github.com/chanthavong/flutter/blob/master/assets/google_array_to_widget.png)|
