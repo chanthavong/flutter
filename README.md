@@ -21,4 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 
 |Image|Image|
 |---|---|
-|![Image Layout](https://github.com/chanthavong/flutter/blob/master/assets/google_account.png)|![Image Layout](https://github.com/chanthavong/flutter/blob/master/assets/google_array_to_widget.png)|
+|![Image Layout](https://github.com/chanthavong/flutter/blob/master/assets/google_account.png)|![Image Layout](https://github.com/chanthavong/flutter/blob/master/assets/map_array_to_widget.png)|
